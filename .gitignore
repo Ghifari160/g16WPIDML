@@ -1,0 +1,13 @@
+# g16WPIDML
+# .gitignore
+
+phpmyadmin/*
+Sample IDML/*
+Commands and stuff.txt
+
+# macOS crap
+.DS_Store
+
+# Ignore all Wordpress files except for the plugin source code
+wordpress/*
+!wordpress/wp-content/plugins/g16WPIDML/*
