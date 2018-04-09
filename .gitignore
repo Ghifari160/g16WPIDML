@@ -8,6 +8,10 @@ Commands and stuff.txt
 # macOS crap
 .DS_Store
 
+# Build directory
+g16WPIDML/
+g16WPIDML.zip
+
 # Ignore all Wordpress files except for the plugin source code
 wordpress/.htaccess
 wordpress/*.php
