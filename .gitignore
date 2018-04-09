@@ -25,6 +25,7 @@ wordpress/wp-includes/*
 wordpress/wp-content/themes/
 wordpress/wp-content/upgrade/
 wordpress/wp-content/uploads/
+wordpress/wp-content/index.php
 
 wordpress/wp-content/plugins/*
 !wordpress/wp-content/plugins/g16WPIDML/
