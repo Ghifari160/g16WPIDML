@@ -3,7 +3,7 @@
 //
 // Copyright (c) 2018 GHIFARI160, all rights reserved.
 // Released under the MIT License
-// https://github.com/ghifari160/g16WPIDML/LICENSE
+// https://github.com/ghifari160/g16WPIDML/LICENSE.md
 
 /*
 Plugin Name: g16WPIDML
@@ -13,11 +13,11 @@ Version: 0.0.1.0
 Author: GHIFARI160
 Author URI: http://ghifari160.com
 License: MIT License
-License URI: https://choosealicense.com/licenses/mit/
+License URI: https://github.com/Ghifari160/g16WPIDML/blob/master/LICENSE
 Text Domain: g16_wpidml
 */
 
-define(G16_WPIDML_DEBUG, true);
+define(G16_WPIDML_DEBUG, false);
 
 // Creates "IDML => WP" meta box
 function g16_wpidml_meta_box()

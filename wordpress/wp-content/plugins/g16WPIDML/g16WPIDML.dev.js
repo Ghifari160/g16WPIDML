@@ -2,7 +2,7 @@
 //
 // Copyright (c) 2018 GHIFARI160, all rights reserved.
 // Released under the MIT License
-// https://github.com/ghifari160/g16WPIDML/LICENSE
+// https://github.com/Ghifari160/g16WPIDML/blob/master/LICENSE.md
 
 (function(obj)
 {

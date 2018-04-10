@@ -33,3 +33,4 @@ wordpress/wp-content/index.php
 
 wordpress/wp-content/plugins/*
 !wordpress/wp-content/plugins/g16WPIDML/
+!wordpress/wp-content/plugins/g16WPIDML.bak/

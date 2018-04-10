@@ -4,7 +4,7 @@ prepare-build:
 
 g16WPIDML/g16WPIDML.min.js: wordpress/wp-content/plugins/g16WPIDML/g16WPIDML.dev.js prepare-build
 	uglifyjs $< -c -o $@
-	echo "// g16WPIDML | (c) 2018 GHIFARI160, all rights reserved | https://github.com/ghifari160/g16WPIDML/LICENSE\n`cat $@`" > $@
+	echo "// g16WPIDML | (c) 2018 GHIFARI160, all rights reserved | https://github.com/Ghifari160/g16WPIDML/blob/master/LICENSE.md\n`cat $@`" > $@
 
 g16WPIDML/g16WPIDML.dev.js: wordpress/wp-content/plugins/g16WPIDML/g16WPIDML.dev.js prepare-build
 	cp $< $@
