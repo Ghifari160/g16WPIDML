@@ -13,7 +13,7 @@ Version: 0.0.1.0
 Author: GHIFARI160
 Author URI: http://ghifari160.com
 License: MIT License
-License URI: https://github.com/Ghifari160/g16WPIDML/blob/master/LICENSE
+License URI: https://github.com/Ghifari160/g16WPIDML/blob/master/LICENSE.md
 Text Domain: g16_wpidml
 */
 
