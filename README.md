@@ -1,4 +1,4 @@
-# Post Generator from IDML #
+# g16WPIDML #
 
 *Generate a [Wordpress][wp] post from InDesign in just four easy steps.*
 
@@ -19,10 +19,7 @@ This project was developed for and tested against [Wordpress][wp] v4.9.5.
 *// TBA*
 
 ## Legal and License ##
-Post Generator from IDML (c) 2018 [GHIFARI160][g16-github], all rights reserved.
-Released under the [MIT License][g16-wpidml-license]. This project utilizes
-[zip.js][g16-wpidml-dep-zipjs]
-([BSD License][g16-wpidml-dep-zipjs-license]).
+g16WPIDML (c) 2018 [GHIFARI160][g16-github], all rights reserved. Released under the [MIT License][g16-wpidml-license]. This project utilizes [zip.js][g16-wpidml-dep-zipjs] ([BSD License][g16-wpidml-dep-zipjs-license]).
 
 [wp]: https://wordpress.org
 [g16-github]: https://github.com/Ghifari160
