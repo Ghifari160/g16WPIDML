@@ -17,8 +17,14 @@ License URI: https://github.com/Ghifari160/g16WPIDML/blob/master/LICENSE.md
 // https://github.com/ghifari160/g16WPIDML/LICENSE.md
 
 // Should be specific to this plugin
-define("G16_WPIDML_DEBUG", false);
+// This definition should not be edited.
 define("G16_WPIDML_VER", "v0.1.0.0");
+
+// Editable definition
+if(!defined("G16_WPIDML_DEBUG"))
+{
+  define("G16_WPIDML_DEBUG", false);
+}
 
 if(G16_WPIDML_DEBUG)
 {
