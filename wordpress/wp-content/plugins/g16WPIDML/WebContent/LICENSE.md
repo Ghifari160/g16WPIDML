@@ -1,3 +1,5 @@
+# BSD License #
+
 Copyright (c) 2013 [Gildas Lormeau][gl-github]. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
