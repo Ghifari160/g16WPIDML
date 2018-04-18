@@ -7,7 +7,7 @@ Version: 0.1
 Author: GHIFARI160
 Author URI: http://ghifari160.com
 License: MIT License
-License URI: https://github.com/Ghifari160/g16WPIDML/blob/master/LICENSE.md
+License URI: https://raw.githubusercontent.com/Ghifari160/g16WPIDML/master/LICENSE
 */
 
 // Post Generator from IDML
