@@ -1,23 +1,31 @@
 <?php
-// g16WPIDML
+/*
+Plugin Name: Post Generator from IDML
+Plugin URI: http://github.com/ghifari160/g16WPIDML
+Description: Generates posts from IDML documents.
+Version: 0.1.0.0
+Author: GHIFARI160
+Author URI: http://ghifari160.com
+License: MIT License
+License URI: https://github.com/Ghifari160/g16WPIDML/blob/master/LICENSE.md
+*/
+
+// Post Generator from IDML
 //
 // Copyright (c) 2018 GHIFARI160, all rights reserved.
 // Released under the MIT License
 // https://github.com/ghifari160/g16WPIDML/LICENSE.md
 
-/*
-Plugin Name: g16WPIDML
-Plugin URI: http://github.com/ghifari160/g16WPIDML
-Description: Generates posts from IDML documents.
-Version: 0.0.1.0
-Author: GHIFARI160
-Author URI: http://ghifari160.com
-License: MIT License
-License URI: https://github.com/Ghifari160/g16WPIDML/blob/master/LICENSE.md
-Text Domain: g16_wpidml
-*/
+define("G16_WPIDML_DEBUG", false);
 
-define(G16_WPIDML_DEBUG, false);
+define("WP_DEBUG", G16_WPIDML_DEBUG);
+
+if(G16_WPIDML_DEBUG)
+{
+  define("WP_DEBUG_LOG", true);
+  define("WP_DEBUG_DISPLAY", true);
+}
+
 
 // Creates "IDML => WP" meta box
 function g16_wpidml_meta_box()
@@ -33,9 +41,13 @@ function g16_wpidml_meta_box()
       ."</script>";
 
   if(!G16_WPIDML_DEBUG)
+  {
     echo "<script src=\"/wp-content/plugins/g16WPIDML/g16WPIDML.min.js\"></script>";
+  }
   else
+  {
     echo "<script src=\"/wp-content/plugins/g16WPIDML/g16WPIDML.dev.js\"></script>";
+  }
 }
 
 // Setups all meta boxes
