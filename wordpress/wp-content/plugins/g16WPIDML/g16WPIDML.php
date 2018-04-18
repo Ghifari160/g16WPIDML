@@ -3,7 +3,7 @@
 Plugin Name: Post Generator from IDML
 Plugin URI: http://github.com/ghifari160/g16WPIDML
 Description: Generates posts from IDML documents.
-Version: 0.1.0.0
+Version: 0.1
 Author: GHIFARI160
 Author URI: http://ghifari160.com
 License: MIT License
@@ -18,7 +18,7 @@ License URI: https://github.com/Ghifari160/g16WPIDML/blob/master/LICENSE.md
 
 // Should be specific to this plugin
 // This definition should not be edited.
-define("G16_WPIDML_VER", "v0.1.0.0");
+define("G16_WPIDML_VER", "v0.1");
 
 // Editable definition
 if(!defined("G16_WPIDML_DEBUG"))
