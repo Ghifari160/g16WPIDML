@@ -11,10 +11,7 @@ License URI: https://raw.githubusercontent.com/Ghifari160/g16WPIDML/master/LICEN
 Generates posts from IDML documents.
 
 == Description ==
-Have you ever have the need to generate a Wordpress post from an InDesign
-document? Yeah, me neither. But in case you do, this plugin is for you because
-this plugin allows you to generate a Wordpress post from an IDML InDesign
-document in four steps:
+Have you ever have the need to generate a Wordpress post from an InDesign document? Yeah, me neither. But in case you do, this plugin is for you because this plugin allows you to generate a Wordpress post from an IDML InDesign document in four steps:
 
 1. Upload the InDesign document. It has to be an IDML file, though.
 2. Select the text frames to post.
@@ -31,24 +28,19 @@ document in four steps:
 == Frequently Asked Questions ==
 
 = How do I use this plugin? =
-Open the post editor like you normally would. There should now be a panel titled
-"IDML => WP" just below the post editor. Upload your IDML file and follow the
-wizard.
+Open the post editor like you normally would. There should now be a panel titled "IDML => WP" just below the post editor. Upload your IDML file and follow the wizard.
 
 = How do I make the IDML file? =
-Open the InDesign document that you would like to use, the click File > Export.
-Change the file format to InDesign Markup (IDML).
+Open the InDesign document that you would like to use, the click File > Export. Change the file format to InDesign Markup (IDML).
 
 = I don't see IDML as an export option... =
 Make sure you are using Adobe InDesign CS5 or later versions.
 
 = Does this plugin uploads the IDML files? =
-No. Everything is actually done by the browser of the user. The IDML files are
-extracted and parsed into the memory of the user.
+No. Everything is actually done by the browser of the user. The IDML files are extracted and parsed into the memory of the user.
 
 = I found a bug or I need other help... =
-Go to the [issue tracker][g16-wpidml-issue]. Please be descriptive with your
-reports, we can't help you if we don't understand your issue.
+Go to the [issue tracker][g16-wpidml-issue]. Please be descriptive with your reports, we can't help you if we don't understand your issue.
 
 [g16-wpidml-issue]: https://github.com/ghifari160/g16WPIDML/issues
 
