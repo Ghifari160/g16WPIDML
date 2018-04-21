@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGhifari160%2Fg16WPIDML.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGhifari160%2Fg16WPIDML?ref=badge_shield)
+
 # Post Generator from IDML #
 
 *Generate a [Wordpress][wp] post from InDesign in just four easy steps.*
@@ -29,3 +31,6 @@ Released under the [MIT License][g16-wpidml-license]. This project utilizes
 [g16-wpidml-license]: https://github.com/Ghifari160/g16WPIDML/blob/master/LICENSE.md
 [g16-wpidml-dep-zipjs]: https://github.com/gildas-lormeau/zip.js
 [g16-wpidml-dep-zipjs-license]: https://github.com/Ghifari160/g16WPIDML/blob/master/wordpress/wp-content/plugins/g16WPIDML/WebContent/LICENSE.md
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGhifari160%2Fg16WPIDML.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGhifari160%2Fg16WPIDML?ref=badge_large)
