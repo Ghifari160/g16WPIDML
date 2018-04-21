@@ -24,6 +24,8 @@ Released under the [MIT License][g16-wpidml-license]. This project utilizes
 [zip.js][g16-wpidml-dep-zipjs]
 ([BSD License][g16-wpidml-dep-zipjs-license]).
 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGhifari160%2Fg16WPIDML.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGhifari160%2Fg16WPIDML?ref=badge_large)
+
 [wp]: https://wordpress.org
 [g16-github]: https://github.com/Ghifari160
 [g16-wpidml-license]: https://github.com/Ghifari160/g16WPIDML/blob/master/LICENSE.md
