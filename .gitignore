@@ -1,6 +1,7 @@
 # g16WPIDML
 # .gitignore
 
+mysql/
 phpmyadmin/
 Sample IDML/
 Commands and stuff.txt
